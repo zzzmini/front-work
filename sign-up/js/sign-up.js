@@ -49,4 +49,5 @@ function check(){
   console.log('가입경로 : ' + path.value);
   console.log('메모 : ' + memo.value);
   console.log('mailReceive : ' + mailReceive);
+  console.log('OK');
 }
